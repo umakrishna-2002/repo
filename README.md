@@ -41,12 +41,3 @@ Similarly for another build was made for another commit
 The work flow as follow
 ![image](https://github.com/user-attachments/assets/ea049ec3-9726-400e-b37d-f61e2277d6d5)
 
-
-
-        <mxCell id="16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#333333;" edge="1" parent="1" source="12" target="13">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-</mxfile>
