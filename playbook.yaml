@@ -1,0 +1,17 @@
+---
+- name: Installing Jenkins and Java on slave1
+  hosts: slave1
+  become: true
+  tasks:
+    - name: Run jk.sh script
+      script: jk.sh
+
+- name: Installing Java on slave2
+  hosts: slave2
+  become: true
+  tasks:
+    - name: Install Java
+      apt:
+        name: openjdk-17-jdk
+        state: latest
+        update_cache: yes
