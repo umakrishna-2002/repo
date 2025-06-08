@@ -38,6 +38,8 @@ Similarly for another build was made for another commit
 ![image](https://github.com/user-attachments/assets/0d4d40bf-3103-4567-92c7-514254949b0a)
 ![image](https://github.com/user-attachments/assets/588252ed-9859-41f1-a1e7-5255b76dd089)
 
+The work flow as follow
+![image](https://github.com/user-attachments/assets/ea049ec3-9726-400e-b37d-f61e2277d6d5)
 
 
 
